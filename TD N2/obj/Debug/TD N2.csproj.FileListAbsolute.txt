@@ -1,0 +1,21 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\bin\Debug\TD N2.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\bin\Debug\BDCompetiteur.mdf
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\bin\Debug\BDCompetiteur_log.ldf
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\bin\Debug\TD N2.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\bin\Debug\TD N2.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD N2.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\MainWindow.g.cs
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\App.g.cs
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD N2_Content.g.cs
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD N2_MarkupCompile.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD N2_MarkupCompile.lref
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\MainWindow.baml
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD N2.g.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD_N2.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD N2.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD N2.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\TD N2\TD N2\obj\Debug\TD N2.pdb
+C:\Users\USER\Desktop\Bolero\Control-templates-example\TD N2\bin\Debug\TD N2.exe.config
+C:\Users\USER\Desktop\Bolero\Control-templates-example\TD N2\obj\Debug\TD N2.exe
+C:\Users\USER\Desktop\Bolero\Control-templates-example\TD N2\obj\Debug\TD N2.pdb
